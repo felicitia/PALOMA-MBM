@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+    <string name="field_1">Name</string>
+    <string name="field_2">Street</string>
+    <string name="field_3">Restaurant ID</string>
+    <string name="results">Results</string>
+    <string name="back">Back</string>
+    <string name="info_6">Borough: </string>
+    <string name="info_5">Zipcode: </string>
+    <string name="info_4">Street: </string>
+    <string name="info_3">Cuisine: </string>
+    <string name="info_2">Name: </string>
+    <string name="info_1">ID: </string>
+    <string name="result_1">Restaurant ID not found</string>
+    <string name="result_2">Name not found</string>
+    <string name="result_3">Cuisine not found</string>
+    <string name="result_4">Street not found</string>
+    <string name="result_5">Zipcode not found</string>
+    <string name="search_two_fields">Search by Name and Adress</string>
+    <string name="search_one_field">Search by ID</string>
+    <string name="search">Search</string>
+    <string name="restaurant_1">restaurant_1</string>
+    <string name="restaurant_2">restaurant_2</string>
+    <string name="restaurant_3">restaurant_3</string>
+    <string name="restaurant_4">restaurant_4</string>
+
+    <string-array name="testcases_array">
+        <item>Select a Test Case</item>
+        <item>Test Case 1</item>
+        <item>Test Case 2</item>
+        <item>Test Case 3</item>
+        <item>Test Case 4</item>
+        <item>Test Case 5</item>
+        <item>Test Case 6</item>
+        <item>Test Case 7</item>
+        <item>Test Case 8</item>
+        <item>Test Case 9</item>
+        <item>Test Case 10</item>
+        <item>Test Case 11</item>
+        <item>Test Case 12</item>
+        <item>Test Case 13</item>
+        <item>Test Case 14</item>
+        <item>Test Case 15</item>
+        <item>Test Case 16</item>
+        <item>Test Case 17</item>
+        <item>Test Case 18</item>
+        <item>Test Case 19</item>
+        <item>Test Case 20</item>
+        <item>Test Case 21</item>
+        <item>Test Case 22</item>
+        <item>Test Case 23</item>
+        <item>Test Case 24</item>
+        <item>Test Case 25</item>
+
+
+    </string-array>
+</resources>
